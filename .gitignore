@@ -3,3 +3,7 @@ data/raw/
 .Rhistory
 .RData
 .DS_Store
+
+BRIEF.md
+DECISIONS.md
+SPEC.md
